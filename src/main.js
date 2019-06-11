@@ -6,7 +6,7 @@ import firebase from "firebase";
 import { db } from "./firebase/firebase";
 import router from "./router";
 
-// import socketio from "socket.io";
+// import socketio from "socket.io";s
 // import VueSocketIO from "vue-socket.io";
 // import firebase from "firebase";
 // export const SocketInstance = socketio('http://localhost:4113');
