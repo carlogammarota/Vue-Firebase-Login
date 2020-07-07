@@ -11,7 +11,7 @@
     "bootstrap-vue": "2.0.0-rc.22",
     "element-ui": "2.9.1",
     "firebase": "6.1.1",
-    "npm": "6.9.0",
+    "npm": "6.14.6",
     "router": "latest",
     "socket.io": "2.2.0",
     "vue": "^2.5.22",
